@@ -1,13 +1,9 @@
 # Employee Directory
-In order to create a functional Employee Directory, a combination of React JS, Javascript, CSS, HTML and more were used on behalf of "Dino Co."
-
-ADDITIONAL INFO:
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In order to create a functional Employee Directory, a combination of React JS, Javascript, CSS, HTML and more were used on behalf of "Dino Co." Disclaimer: All Dino Co. Employees also work at the Krusty Krab in Bikini Bottom.
 
 ## Available Scripts
 
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.<br />
